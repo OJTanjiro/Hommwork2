@@ -1,0 +1,11 @@
+*{
+
+}
+
+.parentdiv{
+border: 2px solid blue;
+}
+
+.childiv{
+    border: 2px solid white;
+}
